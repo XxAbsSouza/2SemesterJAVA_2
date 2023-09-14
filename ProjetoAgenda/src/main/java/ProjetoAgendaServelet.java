@@ -1,3 +1,4 @@
+//o servelet recebe os parâmetros e devolve uma página html
 
 
 import java.io.IOException;
